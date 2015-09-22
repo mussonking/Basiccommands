@@ -1,0 +1,15 @@
+name: BasicCommand
+main: com.dragonsdoom.basiccommands.Main
+version: 1.0
+
+commands:
+    donate:
+        description: give donatorshop link
+    website:
+        description: give website link
+    forum:
+        description: give forum link
+    member:
+        description: give link to become a member
+    setmessage:
+        description: Change default messages eg -> "/setmessage donate newtext (support colors)"
